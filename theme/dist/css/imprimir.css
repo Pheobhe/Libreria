@@ -1,0 +1,19 @@
+.tablaPrincipal{font-size: 10px;}
+.tablaPrincipal tr td:nth-child(6) {
+    font-weight: 800;
+}
+
+@media all {
+				
+
+               div.saltopagina{
+                   display: none;
+              }
+            }         
+ @media print{
+                         div.saltopagina{
+                              display:block;
+                             page-break-before:always;
+                            }
+            }
+                  
