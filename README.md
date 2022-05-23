@@ -1,27 +1,20 @@
-<br/>
-<p align="center">
-    <a href="" target="_blank">
-        <img width="80%" src=https://user-images.githubusercontent.com/88856308/169827009-b2fd8fe1-93d3-4f6c-bc89-2c46e0fbe15d.png alt="Lib logo">
-    </a>
-</p>
-
+#  Sistema de Control de Stock de Libreria e Insumos  
 
 ![Screenshot](https://user-images.githubusercontent.com/88856308/165524046-c7a097d3-77a5-4404-8b55-d073de98d60f.png)
+
+
 
 <br/>
 <p align="center">
     <a href="https://SVT.io/" target="_blank">
-       <img src="https://user-images.githubusercontent.com/88856308/166707385-6815acb8-ee4c-4735-99bd-5e8b76aa647e.gif">
+      <img src="https://user-images.githubusercontent.com/88856308/169830730-c919b873-bfb6-46e5-9dd3-f854928f63ae.gif">
        </a>
 </p>
-
 <br/>
 
-     
-    https://user-images.githubusercontent.com/88856308/168822957-0c6c3212-acbf-414c-9bf1-ed960f1c6783.mp4
-    
+El objetivo de este sistema es sarasa
 
-
+<br/>
 <p align="center">
     <img alt="GitHub branch checks state" src="https://img.shields.io/github/checks-status/pheobhe/svt/master?color=yellow&label=Checks&style=plastic">
     <img alt="GitHub branch checks state" src="https://img.shields.io/github/checks-status/pheobhe/svt/master?color=orange&label=Branches&style=plastic">
@@ -34,11 +27,18 @@
 </p>
 <br/>
 
+<br/>
+<p align="center">
+    <a href="" target="_blank">
+        <img width="80%" src=https://user-images.githubusercontent.com/88856308/169827009-b2fd8fe1-93d3-4f6c-bc89-2c46e0fbe15d.png alt="Lib logo">
+    </a>
+</p>   
+
 ## 🧱&nbsp; Stack 
 Realizado en Codeigniter
 Toda la aplicación no está aun dockerizada.
 
-## 🌵&nbsp; Características 
+## 🌵&nbsp;  Características 
 Existen dos tipos de roles de usuario: Administrador y Autorizar.
 <ul>
  <li> El Administrador tiene los permisos para todas las utilizades de Autorizar y ademas en Ingresos, Anular Movimiento y Nota de devolucion, Ingesar articulos sin Remito, y en Egreso Anular Autorizacion y Remitos, en Fichas Eliminar y Agregar Productos, Unidades y Proveedores, en Inventario puede Cambiar Ubicacion y Stock Minimo. </li>
