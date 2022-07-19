@@ -16,13 +16,13 @@ El objetivo de este sistema es sarasa
 
 <br/>
 <p align="center">
-    <img alt="GitHub branch checks state" src="https://img.shields.io/github/checks-status/pheobhe/svt/master?color=yellow&label=Checks&style=plastic">
-    <img alt="GitHub branch checks state" src="https://img.shields.io/github/checks-status/pheobhe/svt/master?color=orange&label=Branches&style=plastic">
-    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/pheobhe/svt?color=yellow&label=Languajes&style=plastic">
-    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/pheobhe/svt?style=plastic">
-    <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/pheobhe/svt?color=FF5733&label=Size&style=plastic">
-    <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/pheobhe/svt/total?color=bbff33&label=Download&style=plastic">
-    <img alt="GitHub issues" src="https://img.shields.io/github/issues/pheobhe/svt?label=Issues&style=plastic">
+    <img alt="GitHub branch checks state" src="https://img.shields.io/github/checks-status/pheobhe/libreria/main?color=yellow&label=Checks&style=plastic">
+    <img alt="GitHub branch checks state" src="https://img.shields.io/github/checks-status/pheobhe/libreria/main?color=orange&label=Branches&style=plastic">
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/pheobhe/libreria?color=yellow&label=Languajes&style=plastic">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/pheobhe/libreria?style=plastic">
+    <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/pheobhe/libreria?color=FF5733&label=Size&style=plastic">
+    <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/pheobhe/libreria/total?color=bbff33&label=Download&style=plastic">
+    <img alt="GitHub issues" src="https://img.shields.io/github/issues/pheobhe/libreria?label=Issues&style=plastic">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/pheobhe?logoColor=8dfe55&style=social">
 </p>
 <br/>
